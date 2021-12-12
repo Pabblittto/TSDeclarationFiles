@@ -1,0 +1,17 @@
+{
+  "name": "TSPresentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dir/index.js",
+  "types": "dir/decl/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "npx tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "typescript": "^4.5.2"
+  }
+}
