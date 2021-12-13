@@ -1,3 +1,2 @@
-export * from "./class";
-export * from "./free-standing-functions";
-export * from "./namespace";
+import {} from "@pabblo/libraryforpresentation-ts";
+import { addTwoNumbers } from "@pabblo/libraryforpresentation";
