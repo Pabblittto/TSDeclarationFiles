@@ -12,6 +12,7 @@
   "dependencies": {
     "@pabblo/libraryforpresentation": "^7.0.0",
     "@pabblo/libraryforpresentation-ts": "^9.0.0",
+    "axios": "^0.24.0",
     "jquery": "^3.6.0",
     "typescript": "^4.5.2"
   }
