@@ -5,13 +5,14 @@
   "main": "dir/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tsc": "npx tsc"
+    "tsc": "npx tsc",
+    "exec": "npx tsc & node ./dir/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@pabblo/libraryforpresentation": "^7.0.0",
-    "@pabblo/libraryforpresentation-ts": "^9.0.0",
+    "@pabblo/libraryforpresentation-ts": "^10.0.0",
     "axios": "^0.24.0",
     "jquery": "^3.6.0",
     "typescript": "^4.5.2"
